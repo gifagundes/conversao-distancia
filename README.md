@@ -12,4 +12,4 @@
 <p>* Substitua o namespace gfagundes pelo seu identificador</p>
 <br>
 <p>Acessando a aplicação</p>
-<p>Pelo seu navegador acesse http://localhost:9090</p>
+<p>Pelo seu navegador acesse http://localhost:9091</p>
